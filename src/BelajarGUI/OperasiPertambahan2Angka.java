@@ -53,6 +53,7 @@ public class OperasiPertambahan2Angka extends javax.swing.JFrame {
         backIcon = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setIconImage(new javax.swing.ImageIcon(getClass().getResource("/Assets/logo-unsika.png")).getImage());
         setResizable(false);
 
         jPanel1.setBackground(new java.awt.Color(255, 255, 255));

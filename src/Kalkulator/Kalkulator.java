@@ -326,6 +326,7 @@ public class Kalkulator extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Kalkulator Sederhana");
+        setIconImage(new javax.swing.ImageIcon(getClass().getResource("/Assets/logo-unsika.png")).getImage());
         setMinimumSize(new java.awt.Dimension(457, 389));
 
         jPanel1.setBackground(new java.awt.Color(204, 255, 255));

@@ -65,6 +65,7 @@ public class PenentuJumlahHari extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("PenentuJumlahHari");
+        setIconImage(new javax.swing.ImageIcon(getClass().getResource("/Assets/logo-unsika.png")).getImage());
         setResizable(false);
 
         jPanel13.setBackground(new java.awt.Color(255, 255, 255));
@@ -429,50 +430,18 @@ public class PenentuJumlahHari extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private javax.swing.JTextField TextFAngkaPertama;
-    private javax.swing.JTextField TextFAngkaPertama1;
-    private javax.swing.JTextField TextFAngkaPertama2;
-    private javax.swing.JTextField TextFAngkaPertama3;
-    private javax.swing.JTextField TextFAngkaPertama4;
-    private javax.swing.JTextField TextFAngkaPertama5;
-    private javax.swing.JLabel backIcon;
     private javax.swing.JLabel backIcon1;
     private javax.swing.JButton btnHapus;
     private javax.swing.JButton btnHitung;
     private javax.swing.JButton btnKeluar;
     private javax.swing.JButton btnSimpan;
     private javax.swing.JComboBox<String> cbBulan;
-    private javax.swing.JLabel jLabel1;
-    private javax.swing.JLabel jLabel10;
-    private javax.swing.JLabel jLabel11;
-    private javax.swing.JLabel jLabel12;
     private javax.swing.JLabel jLabel13;
-    private javax.swing.JLabel jLabel2;
-    private javax.swing.JLabel jLabel3;
-    private javax.swing.JLabel jLabel4;
-    private javax.swing.JLabel jLabel5;
-    private javax.swing.JLabel jLabel6;
-    private javax.swing.JLabel jLabel7;
-    private javax.swing.JLabel jLabel8;
-    private javax.swing.JLabel jLabel9;
-    private javax.swing.JPanel jPanel1;
-    private javax.swing.JPanel jPanel10;
-    private javax.swing.JPanel jPanel11;
-    private javax.swing.JPanel jPanel12;
     private javax.swing.JPanel jPanel13;
     private javax.swing.JPanel jPanel14;
     private javax.swing.JPanel jPanel16;
     private javax.swing.JPanel jPanel17;
-    private javax.swing.JPanel jPanel18;
     private javax.swing.JPanel jPanel19;
-    private javax.swing.JPanel jPanel2;
-    private javax.swing.JPanel jPanel3;
-    private javax.swing.JPanel jPanel4;
-    private javax.swing.JPanel jPanel5;
-    private javax.swing.JPanel jPanel6;
-    private javax.swing.JPanel jPanel7;
-    private javax.swing.JPanel jPanel8;
-    private javax.swing.JPanel jPanel9;
     private javax.swing.JLabel labBulan;
     private javax.swing.JLabel labHasil;
     private javax.swing.JLabel labTahun;
